@@ -1,0 +1,17 @@
+{
+  "name": "sonarqube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/masfelix/sonarqube.git",
+  "author": "Marcos Felix <masfelix@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.23.2",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.7.0",
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  }
+}
